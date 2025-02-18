@@ -1,4 +1,4 @@
-![](1507482727565590528_1.gif)
+![](1507482727565590528_1.gif)![](04_VID_140710312_120253_959.1.gif)
 
 Check out my art portfolio: https://www.digitalsignalperson.com
 # Repository Index
