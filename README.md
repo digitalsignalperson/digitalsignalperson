@@ -6,8 +6,7 @@ WIP wasm demos (using [sokol](https://github.com/floooh/sokol), [miniaudio](http
 - [zero-text-sapp](https://digitalsignalperson.github.io/demos/zero-text-sapp.html) a fork/rewrite of ImGuiColorTextEdit focusing on WYSIWYG markdown
 - [zero-stft-sapp](https://digitalsignalperson.github.io/demos/zero-stft-sapp.html) live STFT visual based on 128 tone-spaced FFT channels with wavelet-like scaling
 - [zero-primitive-sapp](https://digitalsignalperson.github.io/demos/zero-primitive-sapp.html) similar controls to the stft-app but with a pre-baked animation
-- [zero-audio-sapp](https://digitalsignalperson.github.io/demos/zero-audio-sapp.html) DJ deck with a creative set of tempo controls (x2, /2, +/-2 semi, +/-1 semi, +/- 20%, 0-200%, +/-200%, +/- 1000%)
-    - includes sokol event hacking to simulate multitouch: [Demo video](https://github.com/ocornut/imgui/issues/7322#issuecomment-2128813405)
+- [zero-audio-sapp](https://digitalsignalperson.github.io/demos/zero-audio-sapp.html) DJ deck with a creative set of tempo controls (x2, /2, +/-2 semi, +/-1 semi, +/- 20%, 0-200%, +/-200%, +/- 1000%). Includes sokol event hacking to simulate multitouch: [Demo video](https://github.com/ocornut/imgui/issues/7322#issuecomment-2128813405)
 
 # Repository Index
 ## with PRs
